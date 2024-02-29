@@ -32,12 +32,12 @@
 	<center><div class="container shadow" style="max-width: 350px; background-color: white;">
 
 
-		 <h2>Login here!</h2> <br>
+		 <h2>SIGN IN!</h2> <br>
 
 		<form method="POST">
 		 <div class="form-group mb-2 form-floating">
 		 	<input type="text" name="username" class="form-control">
-		 	<label>Username</label>
+		 	<label>Name</label>
 		 </div>
 		 <div class="form-group mb-2 form-floating">
 		 	<input type="password" name="password" class="form-control">
